@@ -52,7 +52,5 @@ The dataset contains numerical data suitable for regression analysis.
 ## ✅ Conclusion
 The Simple Linear Regression model successfully learns the relationship between years of experience and salary. The close alignment of data points with the regression line indicates a good fit for the training data.
 
----
 
-## 📂 Project Structure
 
